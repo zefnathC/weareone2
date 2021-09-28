@@ -3,7 +3,7 @@ title: Contact
 logo: /img/logo.svg
 contact_entries:
   - heading: "Nama "
-    text: Zefnath CH Nendissa
+    text: Zefnath CH Nendissa <br>
   - heading: "Nim:"
     text: "205410009"
 ---
